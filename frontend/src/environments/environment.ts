@@ -9,9 +9,7 @@
 
 export const environment = {
   production: false,
-  hostServer: 'http://localhost:3000',
-  awsAccessKey: 'AKIAIOSFODNN7EXAMPLE',
-  awsAccountId: '123456789012'
+  hostServer: 'http://localhost:3000'
 }
 
 /*
